@@ -1,0 +1,55 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+h1
+{
+    color: #b8bedd;
+    margin: auto;
+    width: 20%;
+    padding: 0.7%;
+}
+
+#header {
+  height: 10%;
+  width: 100%;
+  margin: 0;
+  background-color: #d7f9f1;
+}
+
+#form_insert_values {
+  display: flex;
+}
+
+.insert_values {
+  margin: 3%;
+}
+
+#add_movie {
+  margin-left: 1%;
+}
+
+#form_link {
+  margin: 2%;
+  margin-left: 1%;
+}
+
+
+section {
+  margin-top: 1%;
+  position: relative;
+  display: flex; align-items: flex-start;
+}
+
+#distribution {
+  margin: 1%;
+  width: 10%;
+  border: solid;
+  border-color: grey;
+  display:inline-block;
+}
+
+.distribution_text {
+  text-align: center;
+}
